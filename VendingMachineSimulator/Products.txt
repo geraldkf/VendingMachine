@@ -1,0 +1,6 @@
+﻿1, CocaCola, 1.30
+2, 7UP, 1.20
+3, Coffee, 2.59
+4, Doughnut, 3.50
+5, Croissiant, 2.99
+6, Pizza, 9.99
