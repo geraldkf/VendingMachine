@@ -15,3 +15,6 @@ jobs:
         dotnet-version: 2.2.207
     - name: Build with dotnet
       run: dotnet build --configuration Release
+    - name: Unit Tests
+      run: dotnet test
+
